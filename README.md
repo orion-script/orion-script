@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A passionate software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orion-script&label=Profile%20views&color=0e75b6&style=flat" alt="orion-script" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/orion_codes" target="blank"><img src="https://img.shields.io/twitter/follow/orion_codes?logo=twitter&style=for-the-badge" alt="orion_codes" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NextJs.**
+- 🌱 I’m currently learning **ReactJs, NextJs, NodeJs, ExpressJs, ReactNative.**
 
-- 👨‍💻 All of my projects are available at [https://hades-portfolio.vercel.app](https://hades-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://orion-portfolio.vercel.app](https://orion-portfolio.vercel.app)
 
-- 💬 Ask me about **Javascript, React, Next, Typescript.**
+- 💬 Ask me about **Javascript, React, Next, NodeJs, ExpressJs, ReactNative, Typescript.**
 
 - 📫 How to reach me **olaniyijohnayomide@gmail.com**
 
