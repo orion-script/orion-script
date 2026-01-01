@@ -35,16 +35,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orion-script" alt="orion-script" /></p> -->
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=orion-script&layout=compact&theme=default&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 <p align="center">
   <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=orion-script&layout=compact&theme=default&hide_border=true"
+  />
+  <img
+    width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=orion-script&theme=default&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
