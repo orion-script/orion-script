@@ -33,15 +33,22 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orion-script&show_icons=true&locale=en&layout=compact" alt="orion-script" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orion-script" alt="orion-script" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orion-script" alt="orion-script" /></p> -->\
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=orion-script&layout=compact&theme=default&hide_border=true"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=orion-script&theme=default&hide_border=true"
-  />
-</p>
+
+<img
+  src="https://stats.oriondev.tech/api/top-langs?username=orion-script&layout=compact"
+/>
+
+
+<img
+  src="https://streak.oriondev.tech/?user=orion-script"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=orion-script&show_icons=true"
+/>
+
+<img src="https://github-profile-trophy.vercel.app/?username="orion-script" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=orion-script" />
