@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **olaniyijohnayomide@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1Nd7T4jFk3Hlw2mpJyjyTDnL7pzsL-wba/view](https://drive.google.com/file/d/1Nd7T4jFk3Hlw2mpJyjyTDnL7pzsL-wba/view)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1zY2n4x5AzQVs7KWpS1y4HzajNHUN07yl/view](https://drive.google.com/file/d/1zY2n4x5AzQVs7KWpS1y4HzajNHUN07yl/view)
 
 - ⚡ Fun fact: **I like Football.**
 
